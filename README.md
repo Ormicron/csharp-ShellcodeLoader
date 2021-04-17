@@ -1,6 +1,7 @@
 # csharp-ShellcodeLoader
 基于csharp实现的免杀shellcode加载器
 
+# 请勿用于非法用途，否则后果自负。
 
 ### Step
 
@@ -19,3 +20,6 @@
 目前经测试能绕过以下杀毒软件最新病毒版本。`Defender`起初测试还没问题，但现在只能静态绕过，所以要想`bypass`需要进行稍许修改。
 
 ![](https://github.com/AirEvan/csharp-ShellcodeLoader/blob/main/images/image4.png)
+
+
+### 项目要是对你有帮助，烦请点个star。
