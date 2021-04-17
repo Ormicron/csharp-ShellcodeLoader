@@ -1,0 +1,7 @@
+C:\Users\test\source\repos\BTeam-Loader\bin\Debug\BTeam-Loader.exe.config
+C:\Users\test\source\repos\BTeam-Loader\bin\Debug\BTeam-Loader.exe
+C:\Users\test\source\repos\BTeam-Loader\bin\Debug\BTeam-Loader.pdb
+C:\Users\test\source\repos\BTeam-Loader\obj\Debug\BTeam-Loader.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\BTeam-Loader\obj\Debug\BTeam-Loader.exe
+C:\Users\test\source\repos\BTeam-Loader\obj\Debug\BTeam-Loader.pdb
+C:\Users\test\source\repos\BTeam-Loader\obj\Debug\BTeam-Loader.csprojAssemblyReference.cache

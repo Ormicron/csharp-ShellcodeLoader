@@ -1,0 +1,10 @@
+C:\Users\test\source\repos\BTeam-Gen\bin\Debug\BTeam-Gen.exe.config
+C:\Users\test\source\repos\BTeam-Gen\bin\Debug\BTeam-Gen.exe
+C:\Users\test\source\repos\BTeam-Gen\bin\Debug\BTeam-Gen.pdb
+C:\Users\test\source\repos\BTeam-Gen\obj\Debug\BTeam-Gen.csprojAssemblyReference.cache
+C:\Users\test\source\repos\BTeam-Gen\obj\Debug\BTeam_Gen.Form1.resources
+C:\Users\test\source\repos\BTeam-Gen\obj\Debug\BTeam_Gen.Properties.Resources.resources
+C:\Users\test\source\repos\BTeam-Gen\obj\Debug\BTeam-Gen.csproj.GenerateResource.cache
+C:\Users\test\source\repos\BTeam-Gen\obj\Debug\BTeam-Gen.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\BTeam-Gen\obj\Debug\BTeam-Gen.exe
+C:\Users\test\source\repos\BTeam-Gen\obj\Debug\BTeam-Gen.pdb
