@@ -5,7 +5,7 @@
 
 ### Step
 
-把生成的`shellcode`直接放进去，然后将转换后的代码放进一个文本文件中。
+使用`cs`生成*32*位的`shellcode`直接放进去，然后将转换后的代码放进一个文本文件中。
 
 ![](https://github.com/AirEvan/csharp-ShellcodeLoader/blob/main/images/image1.png)  
   
